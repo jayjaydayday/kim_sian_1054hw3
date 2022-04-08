@@ -24,3 +24,4 @@ while quiz is False:
         variables.AntMan = 0
         variables.DocStrange = 0
     quiz = False
+ 
