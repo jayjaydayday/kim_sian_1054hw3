@@ -139,3 +139,4 @@ def result(status):
         answer = variables.DocStrange
         print("\033[0;30;47mYou are strange, Doctor Strange\033[m")
         wb.open("https://www.marvel.com/characters/doctor-strange-stephen-strange")
+        
