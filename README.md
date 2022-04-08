@@ -28,9 +28,6 @@ and run the quiz.py file in a Python 3 shell (Terminal on a mac / Linux, Windows
 Enjoy!</p><br>
 
 
-## Credits
-<p>Add points and open images from web: <a href="https://www.youtube.com/watch?v=CfeULNd5-4Q">Build a Personality Survey Pt 2 - Python 3 6 </a></p><br>
-
 
 ## License 
 MIT
